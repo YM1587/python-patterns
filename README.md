@@ -9,7 +9,7 @@ This project demonstrates GoF (Gang of Four) design patterns in Pythonic style. 
 - 📚 Real-world use cases when applicable.
 ## Getting Started
 ### Requirements
-- Python 3.8+
+- Python 3.8+.
 - (Optional) virtualenv for isolated environments.
 
 ## Setup
@@ -21,5 +21,5 @@ python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
-## 🧠 Contributing
+## 🧠 Contributing.
 Contributions are welcome! Feel free to open issues, suggest patterns, or submit PRs. Please follow the **PEP8** coding style.
