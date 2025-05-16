@@ -5,12 +5,12 @@ classic design patterns in their Python projects.
 ## Purpose
 This project demonstrates GoF (Gang of Four) design patterns in Pythonic style. Each pattern includes:
 - ✅ A simple, readable implementation
-- 📄 Comments and docstrings for clarity
-- 📚 Real-world use cases when applicable
+- 📄 Comments and docstrings for clarity.
+- 📚 Real-world use cases when applicable.
 ## Getting Started
 ### Requirements
 - Python 3.8+
-- (Optional) virtualenv for isolated environments
+- (Optional) virtualenv for isolated environments.
 
 ## Setup
 
